@@ -24,7 +24,7 @@ Once you have cloned the repository, navigate to the desired project directory a
 
 ## **Contributing**
 
-Contributions to this repository are welcome! If you would like to contribute to any of the existing projects or add a new Docker project, please follow the guidelines outlined in the CONTRIBUTING.md file.
+Contributions to this repository are welcome! If you would like to contribute to any of the existing projects or add a new Docker project, please follow the guidelines outlined in the [CONTRIBUTING.md](CONTRIBUTING.md) file.
 
 ## **License**
 
