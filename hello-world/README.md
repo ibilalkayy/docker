@@ -35,7 +35,7 @@ To run the "Hello World" application using Docker, follow these steps:
 
 ## **Contributing**
 
-If you would like to contribute to this project, feel free to submit a pull request with your proposed changes. Contributions are always welcome!
+If you would like to contribute to this project, feel free to submit a pull request with your proposed changes. Contributions are always welcome! Here is the [contribution guide](../CONTRIBUTING.md) to get more info.
 
 ## **License**
 
