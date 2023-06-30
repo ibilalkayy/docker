@@ -12,7 +12,7 @@ Clone your forked repository to your local machine using the following command:
 
 Navigate to the project directory:
 
-    cd hello-world
+    cd directory-name
 
 Make sure you have Docker installed on your machine. If not, follow the official Docker installation guide for your operating system.
 
