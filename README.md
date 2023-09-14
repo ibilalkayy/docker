@@ -10,13 +10,27 @@ This repository serves as a collection of projects developed using Docker, an op
 
 - [multi-container](https://github.com/ibilalkayy/docker/tree/main/multi-container)
 
+    **Description:** This directory contains a "multi-container" application that runs multiple containers using one command.
+
 - [redis-docker](https://github.com/ibilalkayy/docker/tree/main/redis-docker)
+
+    **Description:** This directory contains a "redis-docker" application that will deploy the redis on docker.
 
 - [static-website](https://github.com/ibilalkayy/docker/tree/main/static-website)
 
+    **Description:** This directory contains a simple "static-website" application that runs it on the nginx server.
+
 - [go-rest-api](https://github.com/ibilalkayy/docker/tree/main/go-rest-api)
 
+    **Description:** This directory contains a "go-rest-api" application that will be containerized using docker.
+
 - [docker-kafka](https://github.com/ibilalkayy/docker/tree/main/docker-kafka)
+
+    **Description:** This directory contains a "docker-kafka" application that will run the kafka in the docker container.
+
+- [ansible-nginx](https://github.com/ibilalkayy/docker/tree/main/ansible-nginx)
+
+    **Description:** This directory contains a "ansible-nginx" application that will install the nginx server using ansible and containerize it using docker.
 
 ## **Usage**
 
