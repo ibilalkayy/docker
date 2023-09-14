@@ -4,9 +4,19 @@ This repository serves as a collection of projects developed using Docker, an op
 
 ## **Projects**
 
-- [Hello-World](https://github.com/ibilalkayy/docker/tree/main/hello-world)
+- [hello-world](https://github.com/ibilalkayy/docker/tree/main/hello-world)
 
     **Description:** This directory contains a simple "Hello World" application written in Golang and deployed using Docker.
+
+- [multi-container](https://github.com/ibilalkayy/docker/tree/main/multi-container)
+
+- [redis-docker](https://github.com/ibilalkayy/docker/tree/main/redis-docker)
+
+- [static-website](https://github.com/ibilalkayy/docker/tree/main/static-website)
+
+- [go-rest-api](https://github.com/ibilalkayy/docker/tree/main/go-rest-api)
+
+- [docker-kafka](https://github.com/ibilalkayy/docker/tree/main/docker-kafka)
 
 ## **Usage**
 
