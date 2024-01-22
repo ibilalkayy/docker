@@ -32,6 +32,10 @@ This repository serves as a collection of projects developed using Docker, an op
 
     **Description:** This directory contains a "ansible-nginx" application that will install the nginx server using ansible and containerize it using docker.
 
+- [AutoDep](https://github.com/ibilalkayy/docker/tree/main/AutoDep)
+
+    **Description:** This directory contains a "AutoDep" application that will return a friendly greeting mentioning the requested URL path Whenever you make a request.
+
 ## **Usage**
 
 Each project in this repository comes with its own instructions for running and interacting with the Docker containers. Please refer to the individual project directories for detailed usage guidelines.
